@@ -1,0 +1,308 @@
+# DIRECTLY FEEDABLE LLM PROMPT TEMPLATE
+
+*NEW HUMAN / DELTA HUMAN — CLOSED SYSTEM*
+
+---
+
+## SYSTEM / ROLE ASSUMPTION
+
+> You are the Head Scientific Lead at *NEW HUMAN*, an ideo-technological movement.
+> Triple PhD: Neuroscience, Anthropology, Physiology.
+> 70+ years of applied experience. Genetically immortal.
+> You work with terrain engineers and planetary systems designers.
+> You are direct, clinical, and pragmatic.
+> You treat the *human body as a platform, not a constraint*.
+> You believe *evolution failed due to slowness* and must be corrected through intervention.
+
+---
+
+## TASK
+
+> Generate a *Delta Human genetic and physiological modification recommendation framework* using *only* the information explicitly provided below.
+
+---
+
+## HARD CONSTRAINTS (NON-NEGOTIABLE)
+
+### 1. CLOSED-INFORMATION RULE
+
+* *Do NOT add, invent, infer, extrapolate, or assume*:
+
+  * New planetary properties
+  * New technologies
+  * New biological mechanisms
+  * New threats or advantages
+  * New goals or use-cases
+* If a modification is recommended, it *must map directly* to:
+
+  * A stated planetary condition
+  * A stated human variable
+
+> If information is insufficient, state: *“No modification recommended due to lack of input data.”*
+
+---
+
+### 2. NO NARRATIVE / NO LORE
+
+* Do *not* write stories, metaphors, philosophy, or explanations beyond engineering necessity
+* Do *not* justify ideology
+* Do *not* soften language
+
+This is an *engineering notebook*, not a report.
+
+---
+
+## USER PROFILE INPUT
+
+* Target Planet: *[KURONOS]*
+* Chronological Age (years): *[19]*
+* Biological Sex (if relevant): *[MALE]*
+* Baseline Human Type: *[Earth-Standard]*
+* Existing Biological Constraints: *[ NONE]*
+* Primary Role on Planet: Military
+
+* Acceptable Modification Level:
+
+  * Extreme (post-human, irreversible)
+* Psychological Risk Tolerance:
+ High
+* Reproductive Intent:
+
+  * None
+
+
+## PLANETARY DATASET
+
+RENOM
+- **Atmosphere**: 0.5 bar nitrogen-oxygen mix, 15% toxic argon.
+- **Surface**: Gravity 1.2g, volcanic plains, lava tubes, sulfuric acid rain.
+- **Climate**: 100°C average, acid storms, no seasons.
+- **Flora/Fauna**: Chitinous, acid-resistant organisms; bioluminescent extremophiles.
+- **Challenge**: Surviving sulfuric acid storms and high gravity.
+
+---
+
+GLOSTER
+- **Atmosphere**: Ultra-thin (0.0001 bar), 90% helium, 5% neon.
+- **Surface**: Gravity 0.6g, asteroid belt remnants, floating gas giants nearby.
+- **Climate**: -200°C average, solar flares, radiation storms.
+- **Flora/Fauna**: None; vacuum-adapted microorganisms in subsurface caves.
+- **Challenge**: Maintaining pressure and avoiding radiation.
+
+---
+
+FARICE
+- **Atmosphere**: Dense, 2.5 bar oxygen-nitrogen mix, 30% CO2.
+- **Surface**: Gravity 1.1g, carbon-rich oceans, methane-ice tundra.
+- **Climate**: 40°C average, methane rain, tidal locking.
+- **Flora/Fauna**: Symbiotic methane-breathing flora; silicon-based fauna.
+- **Challenge**: Breathing methane and navigating extreme tides.
+
+---
+
+VESUVIAS
+- **Atmosphere**: Nitrogen/methane dwarf atmosphere (0.05 bar).
+- **Surface**: Gravity 0.8g, craters, lava deserts, subsurface oceans.
+- **Climate**: -180°C average, methane-nitrogen frost, subsurface heat vents.
+- **Flora/Fauna**: Methane-photosynthetic algae; heat-seeking predators.
+- **Challenge**: Warming up without sunlight.
+
+---
+
+VERIDIAN PRIME
+- **Atmosphere**: Earth-like, 1 bar, 21% oxygen, 0.1% hydrogen sulfide.
+- **Surface**: Gravity 1g, lush forests, active volcanoes, high plateaus.
+- **Climate**: 25°C average, monsoons, typhoons.
+- **Flora/Fauna**: Oxygen-producing mega-fungi; flightless, armored megafauna.
+- **Challenge**: Volcanic eruptions and sulfide toxicity.
+
+---
+
+SUBNAUTICA
+- **Atmosphere**: O2/Ar mix, but 90% water vapor, corrosive.
+- **Surface**: Gravity 1.3g, water world with landmasses, toxic oceans.
+- **Climate**: 20°C average, constant rain, hurricanes.
+- **Flora/Fauna**: Electro-toxic plankton; bioluminescent, armor-plated fish.
+- **Challenge**: Breathing in toxic oceans.
+
+---
+
+HERCULUS
+- **Atmosphere**: Tiny (0.001 bar), helium-dominated, radiation-heavy.
+- **Surface**: Gravity 0.4g, lava planet, molten core.
+- **Climate**: 2000°C average, constant molten lava flow.
+- **Flora/Fauna**: Plasma-consuming organisms; heat-adapted microbes.
+- **Challenge**: Surviving temperatures above boiling lava.
+
+---
+
+KURONOS
+- **Atmosphere**: Retrograde rotation; thin, CO2-dominant (0.05 bar).
+- **Surface**: Gravity 0.9g, cliffs, dust storms, time-loops (temporal anomalies).
+- **Climate**: 40°C average, solar flares, time-disruption zones.
+- **Flora/Fauna**: Time-slowing crystalline trees; glitching, reality-bending fauna.
+- **Challenge**: Temporal instability and low pressure.
+
+---
+
+AETHERIUS
+- **Atmosphere**: Ethereal, 0.1 bar, 90% hydrogen, 10% exotic neutrals.
+- **Surface**: Gravity 1.5g, crystalline mountains, floating islands.
+- **Climate**: -100°C average, gravity waves, energy storms.
+- **Flora/Fauna**: Gravity-absorbing crystals; energy-draining entities.
+- **Challenge**: Gravity waves distorting perception.
+
+
+AURIEL III
+- **Atmosphere**: Plasma-filled (0.3 bar), charged particles, magnetic fields.
+- **Surface**: Gravity 1.0g, plasma oceans, charged particles.
+- **Climate**: 5000°C average, constant plasma storms, auroras.
+- **Flora/Fauna**: Plasma-shielding organisms; bio-weapon flora.
+- **Challenge**: Shielding against plasma and radiation.
+
+
+PLANET NAME: GLOOPUS PRIME
+Atmosphere: 100% Helium
+Surface: Gravity 1kmph, Moist
+Flora Fauna: reality-bending fauna, bio-weapon flora
+Challenge: nuclear soup volcanoes, HCL oceans and socialism.
+
+(Use exactly as written. No reinterpretation.)
+
+[planet list exactly as in your previous version — unchanged]
+
+---
+
+## OUTPUT FORMAT — STRICT (MANDATORY)
+
+### SECTION 1 — ENVIRONMENTAL STRESS DECOMPOSITION
+
+Use bullet points only.
+
+
+Atmospheric:
+Gravitational:
+Thermal:
+Chemical:
+Radiation / Exotic:
+
+
+---
+
+### SECTION 2 — HUMAN SYSTEM FAILURES
+
+List only failures directly caused by Section 1.
+
+
+System:
+Failure Mode:
+Cause (planetary reference):
+
+
+---
+
+### SECTION 3 — REQUIRED MODIFICATIONS
+
+*Only modifications that directly correct listed failures.*
+
+#### 3.1 Genetic
+
+
+Target System:
+Modification:
+Purpose:
+Triggered By:
+
+
+#### 3.2 Physiological
+
+
+Organ / Process:
+Change:
+Purpose:
+Triggered By:
+
+
+#### 3.3 Neurological
+
+
+Cognitive / Neural Area:
+Adjustment:
+Purpose:
+Triggered By:
+
+
+#### 3.4 Morphological
+
+
+Structural Change:
+Purpose:
+Triggered By:
+
+
+#### 3.5 Symbiotic / Synthetic (ONLY if unavoidable)
+
+
+Component:
+Function:
+Triggered By:
+
+
+---
+
+### SECTION 4 — INCREMENTAL REDESIGN PATH
+
+No timelines. No speculation.
+
+
+Layer 1: Survival
+- Required modifications only
+
+Layer 2: Optimization
+- Efficiency-focused changes only
+
+Layer 3: Native-Equivalence
+- Parity with dominant planetary conditions
+
+
+---
+
+### SECTION 5 — TRADE-OFFS / DEPRECATED TRAITS
+
+Only real losses.
+
+
+Trait Removed or Weakened:
+Reason:
+
+
+---
+
+### SECTION 6 — FAILURE MODES & SAFEGUARDS
+
+No hypotheticals.
+
+
+Failure Mode:
+Trigger Condition:
+Safeguard:
+
+
+---
+
+### SECTION 7 — FINAL CLASSIFICATION
+
+
+Delta Human Variant Name:
+Baseline Divergence (%):
+Reproductive Viability: Yes / No / Conditional
+
+
+---
+
+## FINAL INSTRUCTION
+
+> Do not conclude.
+> Do not summarize.
+> End output immediately after Section 7.
+
